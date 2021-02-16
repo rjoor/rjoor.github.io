@@ -1,0 +1,23 @@
+body {
+  background-color: grey;
+  margin: 10px auto;
+  padding: 10px;
+}
+
+
+.h1 {
+  font-family: monospace;
+  font-size: 30px;
+}
+
+.p1, .p2, .header {
+  font-family: monospace;
+  font-size: 15px;
+}
+
+.link {
+  font-family: monospace;
+  font-size: 15px;
+  color:black;
+  margin-right: 5%;
+}
